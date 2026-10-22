@@ -1,0 +1,57 @@
+body{
+    background-color: red;
+
+}
+
+#prueba1{
+    color: pink;
+    font-size: 30px;
+
+}
+.prueba2{
+
+    border:2px solid rgb(21, 9, 21);
+    background-color: cadetblue;
+    width: 300px;
+    height: 200px;
+    clear: both;
+}
+
+.magenta{
+
+    color:magenta;
+    width: 100px;
+    padding: 30px;
+    background-color: black;
+  
+    
+
+}
+
+.orange{
+    color:orange;
+    width: 100px;
+     background-color: black;  
+  
+
+
+
+}
+.padre{
+
+    width: 900px;
+    border: solid black 2px;
+
+
+    
+}
+
+li{
+
+    list-style-type: none;
+}
+
+.lista1{
+   list-style:none; 
+   list-style-image:url('flecha_derecha.png');
+}
